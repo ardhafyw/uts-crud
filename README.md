@@ -22,7 +22,8 @@ UPDATE
 DELETED
 
 
-![image](https://user-images.githubusercontent.com/100121295/159412939-cc1fe02f-dea0-4616-8504-339694b97ddf.png)
+![image](https://user-images.githubusercontent.com/100121295/159414483-d49476af-316d-4dd3-a748-f7265f6e2532.png)
+
 
 
 
